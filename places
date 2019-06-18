@@ -1,0 +1,10 @@
+$ shoutem login
+Enter your Shoutem credentials (obtained at https://builder.shoutem.com):
+Email: tom@shoutem.com
+Password:
+
+Logged in as tom@shoutem.com.
+Enter developer name.
+Developer name: tom
+
+Registered as `tom`.
